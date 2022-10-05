@@ -3,8 +3,8 @@
 #include <random>
 #include <cmath>
 #include <algorithm>
-#include "print.h"
-#include "model.h"
+#include "../include/print.h"
+#include "../include/model.h"
 // using std::cout;
 // using std::endl;
 // using std::cerr;

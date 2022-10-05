@@ -1,7 +1,7 @@
 #include <iostream>
-#include "print.h"
-#include "model.h"
-#include "dataLoader.h"
+#include "../include/print.h"
+#include "../include/model.h"
+#include "../include/dataLoader.h"
 #include <windows.h>
 using std::cout;
 using std::endl;

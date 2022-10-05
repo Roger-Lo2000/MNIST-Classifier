@@ -1,4 +1,4 @@
-#include "print.h"
+#include "../include/print.h"
 #include <iostream>
 // 1d float vector
 void print(std::vector<float> x){ 
